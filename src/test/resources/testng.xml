@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="TestNgExampleSuite" parallel="false">
+	<test name="TestNgTest">
+		<classes>
+			<class name="com.vkoul.testng.TestNgExample1" />
+			<class name="com.vkoul.testng.TestNgExample2" />
+			<class name="com.vkoul.testng.ui.TestNGGmailLogin" />
+		</classes>
+	</test>
+</suite>
